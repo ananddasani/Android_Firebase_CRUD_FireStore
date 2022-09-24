@@ -366,6 +366,7 @@ public class Model {
 
 # App Highlight
 
-<img src="app_images/CRUD_Code.png" width="1000" /><br>
+![CRUD_1_App](https://user-images.githubusercontent.com/74413402/192092356-cfa3fa46-fd9e-4d7c-a0d2-57ac2557f1c8.png)
+![CRUD_2_App](https://user-images.githubusercontent.com/74413402/192092358-f7873c8a-8cee-430e-b7fd-a90bd9b942bf.png)
+![CRUD_Code](https://user-images.githubusercontent.com/74413402/192092359-72952013-4b3a-4426-ac65-8d449407c535.png)
 
-<img src="app_images/CRUD_1_App.png" width="300" /> <img src="app_images/CRUD_2_App.png" width="300" /><br>
